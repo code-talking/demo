@@ -1,0 +1,5 @@
+2019-11-05 08:52:44.344  INFO 719 --- [main] com.blog.example.demo.DemoApplication    : Starting DemoApplication on BodeMacBook-Pro.local with PID 719 (/Users/bl/Desktop/sb/demo/target/classes started by bl in /Users/bl/Desktop/sb/demo)
+2019-11-05 08:52:44.347  INFO 719 --- [main] com.blog.example.demo.DemoApplication    : The following profiles are active: pro
+2019-11-05 08:52:46.234  WARN 719 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-05 08:52:46.430  WARN 719 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-11-05 08:52:46.543  INFO 719 --- [main] com.blog.example.demo.DemoApplication    : Started DemoApplication in 2.809 seconds (JVM running for 3.474)

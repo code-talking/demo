@@ -23,7 +23,7 @@ public class HelloController {
 
     @RequestMapping("/blog")
     public String blog() {
-        String msg = "Start to learn blog";
+        String msg = "develop blog";
         return msg;
     }
 
